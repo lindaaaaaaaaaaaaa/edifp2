@@ -1,5 +1,6 @@
 body{
     background-color: #00F; /*color azul == color de funda*/
-    font-weight: bold; /*negrita*/
-    color: #F00; /*color rojo == color de letra*/
+    font-style:italic; /*letra cursiva*/
+    /*font-weight: bold; significa letra negrita*/
+    color: rgb(21, 255, 0); /*color rojo == color de letra*/
  }
